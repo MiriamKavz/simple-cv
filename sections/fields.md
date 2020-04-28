@@ -1,4 +1,9 @@
-## Fields of Specialization
+## Γνωστικά Αντικείμενα
+* **Επιστήμη της Πληροφόρησης**
+Cataloging, ACCR2, Dublin Core, MODS, MEDS, KOHA, BIBFRAME, RDA, Παλαιογραφία
 
-Ancient relics, imperial theft of cultural patrimony, Grail lore,
-anti-fascism, masculinist archæology, Celtic mythology, Herpetology.
+* **Γραφιστικά**
+Graphic Design
+Wordpress
+
+Φωτογραφία
