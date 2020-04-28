@@ -1,5 +1,4 @@
 ## Education
 
-* **Sorbonne**, PhD, 1925
-* **University of Chicago**, AB, 1922, Archæology
-  * Adviser: Abner Ravenwood
+* **ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ**, ΤΜΗΜΑ ΑΡΧΕΙΟΝΟΜΙΑΣ ΒΙΒΛΙΟΘΗΚΟΝΟΜΙΑΣ ΚΑΙ ΜΟΥΣΕΟΛΟΓΙΑΣ, 2019
+
