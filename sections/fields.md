@@ -6,4 +6,4 @@ Cataloging, ACCR2, Dublin Core, MODS, MEDS, KOHA, BIBFRAME, RDA, Παλαιογ�
 Graphic Design
 Wordpress
 
-Φωτογραφία
+* **Φωτογραφία**
